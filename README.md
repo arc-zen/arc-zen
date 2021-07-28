@@ -1,6 +1,5 @@
 ```js
 module.exports = {
-  name = "aaron";
   username = "arczen",
   discord = "arczen#7561",
   execute() {
